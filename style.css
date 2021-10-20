@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: cyan;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.heading{
+    background-color: cyan;
+    color: firebrick;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Press Start 2P', cursive;
+    width: 90%;
+}
+
+#camera, #result{
+    border: cyan 5px groove;
+    width: 500px;
+    height:300px;
+}
